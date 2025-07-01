@@ -1,0 +1,317 @@
+body{
+    background: linear-gradient(to right,rgb(80, 11, 80) 50%, rgb(184, 130, 238))
+}
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 28px;
+    color: #F8E300;
+    text-align: center;
+    margin-bottom: 20px;
+    
+   
+}
+p{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: white;
+}
+h3{
+    font-size: 20px;
+    color: #F8E300;
+}
+ul,ol{
+    font-size: 17px;
+    line-height: 1.5;
+    color: white;
+}
+.bl2{
+    margin: 0 auto;
+    padding: 15px;
+    width: 1200px;
+    height: 260px;
+}
+
+.yel1{
+    font-weight: bold;
+}
+.yel1:hover{
+    text-decoration: underline;
+}
+.bl2_ul{
+    font-size: 17px;
+    margin:20px;
+    font-family: sans-serif;
+}
+/*  блок 3*/
+
+.bl3{
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 15px;
+
+}
+.text10{
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.img1{
+    padding: 5px;
+    transition: 1s;
+}
+.img1:hover{
+    border: 5px solid blue;
+}
+
+
+
+
+/*  блок 4*/
+
+.bl4{
+    width: 1200px;
+    height: 540px;
+    margin: 0 auto;
+    padding: 15px;
+    padding-top: 0;
+}
+.eee{
+    margin-left: 15px;
+}
+.er{
+    margin-left: 30px;
+}
+
+
+
+
+/*  блок 5*/
+
+.bl5{
+ width: 1200px;
+ height: 300px;
+ margin: 0 auto;
+ padding: 15px;
+}
+.rrr{
+    width: 900px;
+    height: 170px;
+    float: left;
+}
+.ttt{
+   width: 115px; 
+   padding: 15px;
+   float: left;
+}
+.yyy{
+    padding: 15px;
+    font-weight: bold;
+}
+.uuu{
+    margin-left: 30px;
+}
+
+
+
+/*  блок 6*/
+.bb6{
+    width: 1200px;
+    height: 350px;
+    padding: 15px;
+    margin: 0 auto;
+   
+}
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+table{
+    width: 700px;
+    margin: 20px auto;
+    border-spacing: 0px;
+}
+tr{
+    background: lightyellow;
+}
+.trnew{
+    background: rgb(255, 208, 0);
+    font-weight: bold;
+}
+.bl6_p{
+    text-align: center;
+    font-weight: bold;
+}
+
+/*  блок 7*/
+.bl7{
+    width: 1200px;
+    height: 370px;
+    margin:0 auto;
+    padding: 15px;
+}
+.noproblem{
+    color: white;
+}
+.bl77{
+    margin-left: 20px;
+}
+.gggg{
+    background: rgb(255, 113, 113);
+}
+
+
+
+
+/*  блок 8*/
+.bl8{
+    width: 1200px;
+    height: 280px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.rt{
+    width: 270px;
+    float: left;
+}
+
+.gf{
+    float: left;
+    width: 700px;
+    height: 200px;
+    margin-left:  50px;
+}
+
+
+
+
+/*  блок 9*/
+.bl9{
+    width: 1200px;
+    height: 320px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.pizza{
+    float: left;
+    width: 270px;
+    margin-right:50px ;
+}
+.sushi{
+    width: 700px;
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+}
+
+
+
+/*  блок 12*/
+.bl12{
+    margin: 0 auto;
+    padding: 15px;
+    width: 1200px;
+    height: 180px;
+}
+.class{
+    padding: 15px;
+    width: 400px;
+    height: 85px;
+    margin: 0 auto;
+}
+.bl12_h3{
+    font-size: 20px;
+    font-family: sans-serif;
+    float: left;
+    margin-top:15px;
+}
+.img1{
+    float: left;
+}
+
+
+.header{
+    width:1200px ;
+    height:150px ;
+    margin: 15px auto;
+}
+.nav{
+    width:1175px ;
+    height:40px ;
+    margin:20px auto ;
+    border-radius:2.5px ;
+
+}
+.block1{
+    width:22% ;
+    height:40px ;
+    margin-bottom:2.5px ;
+    background:gold ;
+    border:1px solid black ;
+    float:left ;
+    border-radius:2.5px ;
+     text-align:center ;
+    font-weight: bold;
+}
+.block1 a{
+    text-decoration: none;
+    line-height: 40px;
+    color: black;
+}
+
+ .bl1{
+    margin-left:1.5% ;
+}
+
+.nav_img{
+    display:block ;
+    margin:0 auto ;
+}
+.we_super{
+    width: 1200px;
+    height: 440px;
+  
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+}
+.we_super h2{
+    width: 100%;
+}
+
+.item_hero{
+    width: 270px;
+    height: 100px;
+    border-radius: 10px;
+    background: rgba(243, 211, 211, 0.418);
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    margin-top: 15px;
+    text-decoration: none;
+    transition: 0.5s;
+
+}
+.item_hero img{
+    height: 70px;
+}
+.item_hero h3{
+    margin-left: 20px;
+}
+.item_hero:hover{
+box-shadow: -1px 3px 8px 0px hsl(207, 100%, 42%);
+}
