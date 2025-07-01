@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    
+}
+body{
+     background: linear-gradient(to bottom, red, yellow) ;
+}
+.w1{
+    width: 1000px;
+    height: 1650px;
+    margin: 0 auto;
+    padding: 15px;
+   
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: seagreen;
+     font-family: "Rubik Gemstones", system-ui;
+}
+.br{
+    width: 380px;
+    float: left;
+    margin-top: 20px;
+}
+table{
+    width: 500px;
+    float: left;
+    border-spacing: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+td{
+    border: 3px solid green;
+    padding: 10px;
+}
+.g{
+    width: 150px;
+}
+
+h2{
+    clear: both;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    padding: 20px 0;
+}
+ol{
+    padding: 15px;
+}
+h3{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+.r{
+    height: 300px;
+     transition: 1s;
+}
+.t{
+    color: yellow;
+    text-align: center;
+}
+.u{
+    width: 300px;
+    float: left;
+}
+
+.p{
+    font-size: 30px;
+    padding: 15px;
+}
+.oop{
+    text-align: center;
+}
+.r:hover{
+ border: 3px dashed black ;
+
+}

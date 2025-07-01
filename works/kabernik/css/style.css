@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+     background: linear-gradient(to left,blue,rgb(0, 157, 255));
+}
+.box{
+    width: 1000px;
+    height: 1800px;
+    margin: 0 auto;
+   
+}
+h1{
+    text-align: center;
+    font-size:  50px;
+    font-family: "Permanent Marker", cursive;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.ggg{
+    width: 380px;
+    float: left;
+    margin-top: 20px;
+}
+table{
+    width: 580px;
+    float: left;
+    border-spacing: 0px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+td{
+    border: 2px solid white;
+    padding: 5px;
+    font-size:  20px;
+    font-family: "Permanent Marker", cursive;
+    color: whitesmoke;
+}
+.gfg{
+    width: 100px;
+    float: left;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    font-size:  30px;
+    font-family: "Permanent Marker", cursive;
+    color: whitesmoke;
+}
+p{
+    font-size:  20px;
+    font-family: "Permanent Marker", cursive;
+    color: black; 
+}
+.gg{
+    width: 200px;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+.gg:hover{
+    width: 250px;
+}
+ol{
+    font-size: 20px;
+    font-family: "Permanent Marker", cursive;
+    color: whitesmoke;
+    margin-left: 30px;
+}
+.fluger{
+    color: whitesmoke;
+    font-family: "Permanent Marker", cursive;
+}
+.poka{
+    font-size: 10px;
+    font-family: "Permanent Marker", cursive;
+    text-align: center;
+    color: whitesmoke;
+}
+.button{
+    background: black;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: "Permanent Marker", cursive;
+    margin: 0 auto;
+    transition: 0.5s;
+}
+.button:hover{
+    border: 2px solid rgb(94, 94, 255);
+}
+.cont{
+    width: 400px;
+    margin-top: 150px;
+    float: left;
+    margin-left: 20px;
+}
