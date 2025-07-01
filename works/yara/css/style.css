@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+body{
+     background: hwb(328 49% 0%);
+}
+.box{
+    width: 1000px;
+    height: 1600px;
+    margin: 0 auto;
+    padding:15px;
+   
+}
+h1{
+    text-align: center;
+font-size: 50px;
+    color: #fbff00;
+      font-family: "Bad Script", cursiv    
+
+}
+      .l{
+    width: 320px;
+    margin-top: 20px;
+    float: left;
+}
+table{
+    width: 580px;
+    float: left;
+    box-sizing: 0px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+td{
+    border: 2px solid;
+    padding: 5px;
+    height: 70px;
+
+}
+h2{
+    clear: both;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color: #fbff00;
+      font-family: "Bad Script", ;
+      margin-bottom: 20px;
+}
+.t1{
+    font-weight: bold;
+    background: linear-gradient(90deg,rgb(255, 255, 255) ,rgb(227, 185, 255));
+}
+.t{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.v{
+    width: 50px;
+    height: 50px;
+}
+.r{
+    font-size: 20px;
+}
+li{
+    margin-left: 20px;
+}
+.s{
+    color: blueviolet;
+    text-align: center ;
+}
+.d{
+    margin-top: 40px;
+    text-align: center;
+    width: 100%;
+    float: left;
+
+}
+
+.foot{
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+}
+    
+.f{
+    width: 300px;
+    float: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 10px;
+}
