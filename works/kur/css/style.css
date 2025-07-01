@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+     background: linear-gradient(to left, blue, purple);
+}
+.box{
+    width: 1000px;
+    height: 2000px;
+    margin: 0 auto;
+    padding: 15px;
+    color: white;
+   
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    font-family: "Permanent Marker", cursive;
+}
+img{
+    width: 365px;
+    float: left;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+table{
+    margin-top: 20px;
+    width: 580px;
+    float: left;
+    border-spacing: 0px;
+    margin-left: 10px;
+}
+td{
+    border: 2px solid white;
+    padding: 5px;
+}
+.sigma{
+    width: 100px;
+}
+h2{
+    text-align: center;
+    clear: both;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.spid{
+    width: 250px;
+    border-radius: 10px;
+}
+.SDD{
+    color: red;
+    text-align: center
+}
+.sigma.hower:{
+    border:2px solid white ;
+}
+.clas5{
+    width: 350px;
+}
+.sss{
+    color: white;
+    text-align: left;
+    font-family: "Permanent Marker", cursive;
+}
